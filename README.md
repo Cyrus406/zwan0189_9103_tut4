@@ -6,7 +6,7 @@
 
 Double exposure blends two distinct images into one, creating a surreal, layered visual effect. This technique is commonly used in photography, film posters, and album covers to combine different concepts or emotions in a single frame.
 
-### Incorporation
+### _Incorporation_
 
 I wanted to integrate into the project the aspect of double exposure that presents the picture to the viewer at multiple levels. Integrating this effect allows the art to be divided into separate animated parts. Through superposition and fusion, different layers of effects can be seen in the same picture, providing depth and meaning of the work.
 
